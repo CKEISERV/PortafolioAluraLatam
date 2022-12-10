@@ -17,6 +17,7 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 2rem;
+    align-items: center;
 }
 
 .proyectos__proyectos:nth-child(2){
@@ -38,8 +39,8 @@
 
 .proyectos__imagenes{
 
-    height: 400px;
-    width: 450px;
+    height: 200px;
+    width: 250px;
 }
 
 @media (max-width: 600px){
@@ -57,6 +58,11 @@
         justify-content: center;
     }
 
+    .proyectos__proyectos:nth-child(3){
+
+        flex-direction: column;
+    }
+
     .proyectos__parrafo{
 
         font-size: 16px;
@@ -69,4 +75,11 @@
         margin-bottom: 1rem;
         
     }
+
+    .proyectos__imagenes:nth-child(1){
+
+        position: relative;
+        left: 2rem;
+    }
+
 }

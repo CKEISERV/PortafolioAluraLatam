@@ -19,8 +19,8 @@
 
 .estudios__contenedor{
 
-   width: 370px;
-   height: 200px;
+    width: 370px;
+    height: 200px;
     display: flex;
     flex-direction: column;
     align-items: center;

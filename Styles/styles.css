@@ -4,6 +4,22 @@
 
 }
 
+  
+.input-container--invalid .contacto__contactarme__input {
+    border: 1px solid #df2525;;
+   
+  }
+  
+.input-container--invalid .contacto__contactarme__label {
+    color: #df2525;
+  }
+
+.input-container--invalid .contacto__contactarme__error {
+    color: #df2525;;
+    display: block;
+  }
+  
+
 @media (max-width: 600px){
 
     .container{

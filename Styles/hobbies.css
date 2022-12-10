@@ -1,6 +1,7 @@
 .hobbies{
 
     background: linear-gradient(#5EB9C0 , #5EA2C0, #1E7FA9);
+  
 }
 
 .hobbies__titulo{
@@ -36,16 +37,20 @@
     
 }
 
+
+
 .hobbies__imagenes:hover{
 
- color:black;
-  font-size: 30px;
+color:black;
+font-size: 30px;
 }
+
 
 .hobbies__imagenes:nth-child(1){
 
     background: url(../Imagenes/videojuegos.png);
     background-position: center;
+    
     background-size: cover;
 }
 

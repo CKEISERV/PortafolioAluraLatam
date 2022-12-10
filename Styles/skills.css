@@ -1,8 +1,6 @@
 .skills{
 
-
     background: linear-gradient(#91D8B4, #91D3D8, #5EB9C0);
-
 }
 
 .skills__titulo{
@@ -44,7 +42,6 @@
 }
 
 .skills__imagenes:nth-child(1){
-
 
     background: url(../Imagenes/html5.png);
     background-repeat: no-repeat;
@@ -129,10 +126,7 @@
         grid-template-columns: 50% 50%;
         grid-template-rows: 25% 25% 25% 25%;
         height: 500px;
-    
-
-    
+   
     }
-
 
 }
