@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 # PortafolioAluraLatam
 #challengeoneportafolio3
