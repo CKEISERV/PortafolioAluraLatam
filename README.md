@@ -33,6 +33,5 @@ Debe tener un Pie de página con la información de la persona que desarrolló e
 Es de extrema importancia que el portafolio sea responsivo, lo que quiere decir que debe adaptarse a los diferentes tamaños de pantallas, pudiendo ser desktop, tablet o celular.
 
 Extras:
-
 La página debe contener un botón que le permita ver, en una nueva pestaña, una versión PDF de su currículum.
->>>>>>> c94d9347f5a49bf9799ecc804a0d7c10f44a69dd
+
